@@ -11,7 +11,7 @@ CMD+O
  Defaults to the top list item being the previously opened file, for quick back and forth navigation
 ## Close note
 ```
-CMD++W
+CMD+W
 ```
 ## New note
 ```
