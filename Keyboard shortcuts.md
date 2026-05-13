@@ -17,11 +17,14 @@ CMD+W
 ```
 CMD+N
 ```
-
 ## Create external link
 For adding URLs to notes with a label
 ```
 CMD+K
+```
+## Checkbox list
+```
+CMD+L
 ```
 ## Preferences
 ```
@@ -51,7 +54,7 @@ CMD+]
 ## Add internal link
 A huge part of Obsidian is about linking notes together
 ```
-CMD+L
+CMD+SHIFT+L
 ```
 ## Move line up/down
 ```
