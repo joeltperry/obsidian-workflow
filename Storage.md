@@ -4,4 +4,4 @@ For my personal vault I use iCloud sync (which is free) to keep my vault synced 
 
 I also use [this community plugin](https://github.com/velviagris/obsidian-local-backup) to generate a backup each time the app launches on my Mac.
 
-I keep my work vault complete separate and use whichever cloud drive service is used by the company, as well as local git versioning instead of the community backup plugin.
+I keep my work vault separate fromy my personal vault and use whichever cloud drive service is used by the company, as well as local git versioning instead of the community backup plugin.

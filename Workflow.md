@@ -44,11 +44,10 @@ I've added an example-vault folder which follows the following structure, based 
 ```
 Archive/            # Notes that are no longer active or useful
 Inbox/              # New notes are created in this directory 
-Projects/           # Things I've responsible for that have an end date
+Projects/           # Things I'm responsible for that have an end date
 Areas/              # Things I'm responsible for that are on-going
 Resources/          # Knowledge about things
 2028-W18.md         # Week plan
 Working memory.md   # New information comes here
 ```
 See [[Preferences]] for Inbox configuration
-

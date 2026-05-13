@@ -43,7 +43,7 @@ $$2\pi r = \text{circumference of a circle}$$
 # Custom shortcuts
 Shortcuts I've configured via ``Preferences > Hotkeys``
 
-# Split right
+## Split right
 Very useful for looking at multiple notes at once
 ```
 CMD+]
@@ -61,7 +61,7 @@ CMD+UP/DOWN
 ```
 CMD+[
 ```
-# Graph view - Open local graph
+## Graph view - Open local graph
 View the relationships between the current note and others via internal links
 ```
 CMD+SHIFT+G
