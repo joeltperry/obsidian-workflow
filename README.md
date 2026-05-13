@@ -1,4 +1,9 @@
-This repo (or Vault in Obsidian terms) is about getting started with [Obsidian](https://obsidian.md/) using my workflow and configuration. It's designed to be read **within Obsidian itself**, to make use of its internal linking features. Hopefully it's useful to you.
+This repo (or Vault in Obsidian terms) is about getting started with [Obsidian](https://obsidian.md/) using my workflow and configuration. Hopefully it's useful to you.
+
+---
+# How to use
+
+Open this project in Obsidian itself to make the most of the internal linking features.
 
 ---
 # Why use Obsidian?
